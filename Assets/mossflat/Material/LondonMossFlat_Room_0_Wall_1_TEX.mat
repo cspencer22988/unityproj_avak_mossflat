@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_Name: LondonMossFlat_Room_0_Wall_1_TEX
+  m_Shader: {fileID: 4800000, guid: 2efb7cd57ad9dcc4c8644d43d5dc3a7e, type: 3}
+  m_ShaderKeywords:
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 6cfe36d60cf3e4342b286ce4faaa5e2b, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Texture2:
+        m_Texture: {fileID: 2800000, guid: 092e5b4e6d121f54f8a82e59e62ef2bb, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BlendIntensity: 6.61
+    - _BlendOffset: -93.8
+    - _BlendRamp: 379.43
+    - _TintTexture2Intensity: -2.42
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
